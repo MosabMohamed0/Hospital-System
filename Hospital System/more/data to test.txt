@@ -1,0 +1,51 @@
+doctor
+
+	dintest
+	Dermatologist
+
+nurse
+
+	Geriatric
+	Orthopedic
+
+staff
+
+	security
+	cleaner
+
+patient
+
+	Asthma
+	Malaria
+
+
+
+I'm so excited to share my team's project  which is Hospital System using C++
+
+Project Description:
+
+1-team members
+
+Mosab Mohamed
+Abd-Elrahman Yahya
+Mahmoud Abd-Elmenem
+Mahmoud Khaled
+Mostafa Salah
+
+2.Project idea
+
+A system of a hospital and their workers including: doctors , nurses , patients and their staff.
+
+3-Action steps
+
+1 Choosing the idea.
+2 Choosing classes.
+3 Making of flowchart.
+4 Building classes
+5 Making of files and their functions.
+6 Making of main function.
+7 Linking between files , classes and functions.
+8 Testing the project.
+
+
+GitHub Link: https://github.com/MosabMohamed0/-Hospital--System
